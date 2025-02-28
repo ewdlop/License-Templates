@@ -1,6 +1,6 @@
 # License-Templates
 
-## ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fewdlop&countColor=%23263759) % max.
+## ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F&#123;&#125;&countColor=%23263759) % max.
 
 https://github.com/microsoft/vscode/blob/main/ThirdPartyNotices.txt
 
